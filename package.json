@@ -1,0 +1,24 @@
+{
+  "name": "cict-test",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/totodioxide/CICT#readme",
+  "bugs": {
+    "url": "https://github.com/totodioxide/CICT/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totodioxide/CICT.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "triangle.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^30.1.3"
+  }
+}
